@@ -13,6 +13,7 @@
 		1DE38E0F23CBA63A00F5E00B /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1DE38E0D23CBA63A00F5E00B /* Main.storyboard */; };
 		1DE38E1123CBA63E00F5E00B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1DE38E1023CBA63E00F5E00B /* Assets.xcassets */; };
 		1DE38E1423CBA63E00F5E00B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1DE38E1223CBA63E00F5E00B /* LaunchScreen.storyboard */; };
+		1DE38E1F23CBB02900F5E00B /* intro.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 1DE38E1E23CBB02800F5E00B /* intro.mp4 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		1DE38E1023CBA63E00F5E00B /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		1DE38E1323CBA63E00F5E00B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		1DE38E1523CBA63E00F5E00B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		1DE38E1E23CBB02800F5E00B /* intro.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = intro.mp4; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 		1DE38E0623CBA63A00F5E00B /* HowToUseVideoAsBackground */ = {
 			isa = PBXGroup;
 			children = (
+				1DE38E1E23CBB02800F5E00B /* intro.mp4 */,
 				1DE38E0723CBA63A00F5E00B /* AppDelegate.swift */,
 				1DE38E0923CBA63A00F5E00B /* SceneDelegate.swift */,
 				1DE38E0B23CBA63A00F5E00B /* ViewController.swift */,
@@ -125,6 +128,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				1DE38E1F23CBB02900F5E00B /* intro.mp4 in Resources */,
 				1DE38E1423CBA63E00F5E00B /* LaunchScreen.storyboard in Resources */,
 				1DE38E1123CBA63E00F5E00B /* Assets.xcassets in Resources */,
 				1DE38E0F23CBA63A00F5E00B /* Main.storyboard in Resources */,
